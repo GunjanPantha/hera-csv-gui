@@ -1,4 +1,3 @@
-"""Minimal offline CSV viewer. Run with Python, or build HERA_CSV.exe."""
 from __future__ import annotations
 
 import csv
