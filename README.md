@@ -1,11 +1,11 @@
 # HERA CSV GUI
 
-An offline graphical interface for smart CSV importing, character-level text evaluation, and data processing tailored for the HERA project.
+A graphical interface for CSV importing, character-level text evaluation, and data processing for HERA.
 
 ## Screenshot
 
-*<img width="992" height="715" alt="image" src="https://github.com/user-attachments/assets/56fee472-8f59-48a1-a656-368f2101f9bf" />
-*
+<img width="992" height="715" alt="image" src="https://github.com/user-attachments/assets/56fee472-8f59-48a1-a656-368f2101f9bf" />
+
 
 ## Installation
 
